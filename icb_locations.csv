@@ -1,0 +1,43 @@
+icb_ons_code,icb_ons_name,region_ons_code,region_ons_name,icb_registered_population_2021_2022,region_registered_population_2021_2022,gps_by_icb,gps_by_region,gp_per_100000,gb_per_100000_region
+E54000040,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E40000006,South West,974548,5966996,583,3649,59.82,61.15
+E54000024,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E40000007,East of England,1065759,7047005,501,3738,47.01,53.04
+E54000055,NHS Birmingham and Solihull Integrated Care Board,E40000011,Midlands,1570851,11502028,944,6923,60.09,60.19
+E54000062,NHS Black Country Integrated Care Board,E40000011,Midlands,1270051,11502028,761,6923,59.92,60.19
+E54000039,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E40000006,South West,1049891,5966996,616,3649,58.67,61.15
+E54000044,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E40000005,South East,1928269,9527034,1087,4930,56.37,51.75
+E54000056,NHS Cambridgeshire and Peterborough Integrated Care Board,E40000007,East of England,1004323,7047005,539,3738,53.67,53.04
+E54000008,NHS Cheshire and Merseyside Integrated Care Board,E40000010,North West,2702059,7637884,1827,4740,67.62,62.06
+E54000036,NHS Cornwall and the Isles of Scilly Integrated Care Board,E40000006,South West,596230,5966996,388,3649,65.08,61.15
+E54000018,NHS Coventry and Warwickshire Integrated Care Board,E40000011,Midlands,1042097,11502028,641,6923,61.51,60.19
+E54000058,NHS Derby and Derbyshire Integrated Care Board,E40000011,Midlands,1105503,11502028,722,6923,65.31,60.19
+E54000037,NHS Devon Integrated Care Board,E40000006,South West,1264796,5966996,827,3649,65.39,61.15
+E54000041,NHS Dorset Integrated Care Board,E40000006,South West,816948,5966996,468,3649,57.29,61.15
+E54000034,NHS Frimley Integrated Care Board,E40000005,South East,806690,9527034,418,4930,51.82,51.75
+E54000043,NHS Gloucestershire Integrated Care Board,E40000006,South West,671720,5966996,420,3649,62.53,61.15
+E54000057,NHS Greater Manchester Integrated Care Board,E40000010,North West,3131662,7637884,1887,4740,60.26,62.06
+E54000042,NHS Hampshire and Isle of Wight Integrated Care Board,E40000005,South East,1908852,9527034,1026,4930,53.75,51.75
+E54000019,NHS Herefordshire and Worcestershire Integrated Care Board,E40000011,Midlands,812712,11502028,521,6923,64.11,60.19
+E54000025,NHS Hertfordshire and West Essex Integrated Care Board,E40000007,East of England,1606280,7047005,913,3738,56.84,53.04
+E54000051,NHS Humber and North Yorkshire Integrated Care Board,E40000012,North East and Yorkshire,1767414,8984826,1034,5324,58.5,59.26
+E54000032,NHS Kent and Medway Integrated Care Board,E40000005,South East,1952120,9527034,876,4930,44.87,51.75
+E54000048,NHS Lancashire and South Cumbria Integrated Care Board,E40000010,North West,1804163,7637884,1026,4740,56.87,62.06
+E54000015,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E40000011,Midlands,1175420,11502028,682,6923,58.02,60.19
+E54000013,NHS Lincolnshire Integrated Care Board,E40000011,Midlands,801457,11502028,431,6923,53.78,60.19
+E54000026,NHS Mid and South Essex Integrated Care Board,E40000007,East of England,1248972,7047005,602,3738,48.2,53.04
+E54000022,NHS Norfolk and Waveney Integrated Care Board,E40000007,East of England,1079483,7047005,631,3738,58.45,53.04
+E54000028,NHS North Central London Integrated Care Board,E40000003,London,1724517,10528260,917,5282,53.17,50.17
+E54000050,NHS North East and North Cumbria Integrated Care Board,E40000012,North East and Yorkshire,3133169,8984826,1910,5324,60.96,59.26
+E54000029,NHS North East London Integrated Care Board,E40000003,London,2325553,10528260,1128,5282,48.5,50.17
+E54000027,NHS North West London Integrated Care Board,E40000003,London,2719514,10528260,1271,5282,46.74,50.17
+E54000059,NHS Northamptonshire Integrated Care Board,E40000011,Midlands,807447,11502028,467,6923,57.84,60.19
+E54000060,NHS Nottingham and Nottinghamshire Integrated Care Board,E40000011,Midlands,1233085,11502028,778,6923,63.09,60.19
+E54000011,"NHS Shropshire, Telford and Wrekin Integrated Care Board",E40000011,Midlands,516452,11502028,307,6923,59.44,60.19
+E54000038,NHS Somerset Integrated Care Board,E40000006,South West,592863,5966996,347,3649,58.53,61.15
+E54000030,NHS South East London Integrated Care Board,E40000003,London,2038754,10528260,1020,5282,50.03,50.17
+E54000031,NHS South West London Integrated Care Board,E40000003,London,1719922,10528260,945,5282,54.94,50.17
+E54000061,NHS South Yorkshire Integrated Care Board,E40000012,North East and Yorkshire,1476671,8984826,857,5324,58.04,59.26
+E54000010,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E40000011,Midlands,1166953,11502028,669,6923,57.33,60.19
+E54000023,NHS Suffolk and North East Essex Integrated Care Board,E40000007,East of England,1042188,7047005,553,3738,53.06,53.04
+E54000052,NHS Surrey Heartlands Integrated Care Board,E40000005,South East,1120562,9527034,609,4930,54.35,51.75
+E54000053,NHS Sussex Integrated Care Board,E40000005,South East,1810541,9527034,915,4930,50.54,51.75
+E54000054,NHS West Yorkshire Integrated Care Board,E40000012,North East and Yorkshire,2607572,8984826,1524,5324,58.45,59.26
